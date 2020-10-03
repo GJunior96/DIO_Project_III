@@ -1,0 +1,22 @@
+{
+  "name": "project_iii",
+  "version": "1.0.0",
+  "description": "\"Chatbot fit\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GJunior96/DIO_Project_III.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GJunior96/DIO_Project_III/issues"
+  },
+  "homepage": "https://github.com/GJunior96/DIO_Project_III#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.50.0"
+  }
+}
