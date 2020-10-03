@@ -25,3 +25,5 @@ async function sendMessage(chatId, message) {
 	const result = responses[0].queryResult;
 	console.log(JSON.stringfy(result, null, 2));
 };
+
+sendMessage('12938123', 'oi');
