@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/GJunior96/DIO_Project_III#readme",
   "dependencies": {
+    "dialogflow": "^1.2.0",
     "node-telegram-bot-api": "^0.50.0"
   }
 }
